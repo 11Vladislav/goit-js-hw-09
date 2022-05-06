@@ -16,3 +16,30 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.flatpickr-input {
+  margin-left: 10px;
+}
+
+.timer {
+  display: flex;
+}
+
+.field{
+margin-top: 10px;
+}
+
+.value{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.label{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
